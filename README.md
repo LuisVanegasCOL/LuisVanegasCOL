@@ -47,43 +47,11 @@ Organizado, resolutivo y con capacidad para optimizar procesos y desarrollar sol
 ## 💼 Experiencia Laboral
 
 - **Técnico Informático** - ZAIDAN IT Solutions para LIDL (Tarragona, España - 2025)
-  - Resolución de incidencias N1 y N2 en entornos corporativos.
-  - Administración y soporte de sistemas Windows, Linux (Ubuntu, Debian, CentOS), Office 365.
-  - Gestión de tickets y reportes con ServiceNow y SCCM.
-
 - **Técnico Informático** - LACASADELPC (Reus, España - 2024)
-  - Diagnóstico y reparación de equipos de cómputo y servidores.
-  - Configuración y mantenimiento de entornos Linux y Windows.
-
 - **Ingeniero de Soporte y Proyectos TI** - SELECT US (Medellín, Colombia - 2024)
-  - Planificación y ejecución de eventos promocionales.
-  - Colaboración con equipos internos y proveedores externos.
-
 - **Analista de Soporte II** - TELEPERFORMANCE COLOMBIA (Bogotá, Colombia - 2022-2024)
-  - Resolución de incidencias N1 y N2.
-  - Administración de Active Directory, Exchange y servidores Linux.
-  - Configuración y mantenimiento de redes LAN y VPN.
 
----
-
-## 💌 Habilidades
-
-- Administración de Sistemas
-- Ciberseguridad
-- Desarrollo de Software
-- Gestión de Infraestructura TI
-- Virtualización
-- Gestión de Servicios IT
-- Redes y Conectividad
-- Trabajo en Equipo
-
-## 🗭️ Idiomas
-
-- Español: Nativo
-- Inglés: A2
-
----
-
+--
 ## 📩 Contacto
 
 - 📞 Teléfono: (+34) 673 431 587
