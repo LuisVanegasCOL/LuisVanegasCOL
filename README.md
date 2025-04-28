@@ -25,7 +25,12 @@ Organizado, resolutivo y con capacidad para optimizar procesos y desarrollar sol
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 ---
-
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisVanegasCOL&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+---
+## 📚 Lenguajes más utilizados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVanegasCOL&langs_count=10&layout=compact&theme=radical)
+---
 ## 🏆 Proyectos Destacados
 
 | Proyecto | Tecnologías | Año | Descripción | Enlace |
