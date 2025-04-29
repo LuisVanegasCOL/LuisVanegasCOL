@@ -52,7 +52,7 @@ Organizado, resolutivo y con capacidad para optimizar procesos y desarrollar sol
 - **Ingeniero de Soporte y Proyectos TI** - SELECT US (Medellín, Colombia - 2024)
 - **Analista de Soporte II** - TELEPERFORMANCE COLOMBIA (Bogotá, Colombia - 2022-2024)
 
---
+---
 ## 📩 Contacto
 
 - 📞 Teléfono: (+34) 673 431 587
