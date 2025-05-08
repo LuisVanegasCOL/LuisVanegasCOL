@@ -31,9 +31,9 @@ Organizado, resolutivo y con capacidad para optimizar procesos y desarrollar sol
 
 | Proyecto | Tecnologías | Año | Descripción | Enlace |
 |---|---|---|---|---|
-| Los Simpsons API | HTML5, CSS3, Tailwind, Vite, TypeScript, JavaScript | 2024 | App web para visualizar personajes de Los Simpsons con filtros avanzados. | [Ver Proyecto](https://app-los-simpson-luis-vanegas.vercel.app/) |
-| App Ping Pong | React Native Web, Node.js, Express.js, MySQL, TypeScript, Railway | 2024 | Aplicación web completa para la gestión de torneos y partidos de ping pong. Incluye sistema de rankings, gestión de jugadores y estadísticas en tiempo real. | [Ver Proyecto](https://luisvanegascol.github.io/AppPingPong/) |
-| Portafolio Luis Vanegas | HTML, CSS, JavaScript | 2024 | Mi portafolio profesional online. | [Ver GitHub](https://github.com/LuisVanegasCOL/PortafolioLuisVanegas) |
+| Los Simpsons API | HTML5, CSS3, Tailwind, Vite, TypeScript, JavaScript | 2025 | App web para visualizar personajes de Los Simpsons con filtros avanzados. | [Ver Proyecto](https://app-los-simpson-luis-vanegas.vercel.app/) |
+| App Ping Pong | React Native Web, Node.js, Express.js, MySQL, TypeScript, Railway | 2025 | Aplicación web completa para la gestión de torneos y partidos de ping pong. Incluye sistema de rankings, gestión de jugadores y estadísticas en tiempo real. | [Ver Proyecto](https://luisvanegascol.github.io/AppPingPong/) |
+| Portafolio Luis Vanegas | HTML, CSS, JavaScript | 2025 | Mi portafolio profesional online. | [Ver GitHub](https://github.com/LuisVanegasCOL/PortafolioLuisVanegas) |
 ---
 
 ## 🎓 Certificados y Educación
