@@ -63,11 +63,10 @@ Organizado, resolutivo y con capacidad para optimizar procesos y desarrollar sol
 
 ## 💼 Experiencia Laboral
 
-- **Técnico Informático** - ZAIDAN IT Solutions para LIDL (Tarragona, España - 2025)
-- **Técnico Informático** - LACASADELPC (Reus, España - 2024)
 - **Ingeniero de Soporte y Proyectos TI** - SELECT US (Medellín, Colombia - 2024)
+- **Técnico Informático** - ZAIDAN IT Solutions para LIDL (Tarragona, España - 2025)
 - **Analista de Soporte II** - TELEPERFORMANCE COLOMBIA (Bogotá, Colombia - 2022-2024)
-
+- **Técnico Informático** - LACASADELPC (Reus, España - 2024)
 ---
 ## 📩 Contacto
 
