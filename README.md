@@ -5,11 +5,8 @@
 Apasionado por la tecnología, el desarrollo web y la seguridad informática. Con amplia experiencia en soporte técnico, administración de sistemas, gestión de infraestructura TI y ciberseguridad. Actualmente cursando un Máster en Diseño y Desarrollo de Aplicaciones Web Fullstack y un Bootcamp en Desarrollo Web Fullstack con Java, adquiriendo habilidades avanzadas en programación y desarrollo de software.
 
 Organizado, resolutivo y con capacidad para optimizar procesos y desarrollar soluciones tecnológicas eficientes.
+[🌐 Portafolio Web](https://portafolio-luis-vanegas.vercel.app/) | [💼 LinkedIn](https://www.linkedin.com/in/luis-ricardo-vanegas-granados-a4061920a/) | [🐙 GitHub](https://github.com/LuisVanegasCOL) | [✉️ Gmail](mailto:luisvanegas@gmail.com)
 
-🔗 [LinkedIn](https://linkedin.com/in/LuisVanegasCOL)  
-🌐 [Portfolio Web](https://portafolio-luis-vanegas.vercel.app/)  
-📧 [Gmail](mailto:luisvanegas@gmail.com)  
-💻 [GitHub](https://github.com/LuisVanegasCOL)
 
 
 ---
