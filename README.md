@@ -6,10 +6,10 @@ Apasionado por la tecnología, el desarrollo web y la seguridad informática. Co
 
 Organizado, resolutivo y con capacidad para optimizar procesos y desarrollar soluciones tecnológicas eficientes.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Portfolio Web](https://img.shields.io/badge/Portfolio-Web-blueviolet?logo=vercel&logoColor=white)](https://portafolio-luis-vanegas.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-luisvanegas@gmail.com-red?logo=gmail&logoColor=white)](mailto:luisvanegas@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-LuisVanegasCOL-black?logo=github&logoColor=white)](https://github.com/LuisVanegas)
+🔗 [LinkedIn](https://linkedin.com/in/LuisVanegasCOL)  
+🌐 [Portfolio Web](https://portafolio-luis-vanegas.vercel.app/)  
+📧 [Gmail](mailto:luisvanegas@gmail.com)  
+💻 [GitHub](https://github.com/LuisVanegasCOL)
 
 
 ---
