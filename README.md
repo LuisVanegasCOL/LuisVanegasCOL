@@ -6,7 +6,11 @@ Apasionado por la tecnología, el desarrollo web y la seguridad informática. Co
 
 Organizado, resolutivo y con capacidad para optimizar procesos y desarrollar soluciones tecnológicas eficientes.
 
-[🌐 Portafolio Web](https://portafolio-luis-vanegas.vercel.app/) | [💼 LinkedIn](https://www.linkedin.com/in/luis-ricardo-vanegas-granados-a4061920a/) | [🐙 GitHub](https://github.com/LuisVanegasCOL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/tuusuario)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Web-blueviolet)](https://tuportafolio)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:luisvanegas@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/LuisVanegasCOL)
+
 
 ---
 
@@ -73,6 +77,7 @@ Organizado, resolutivo y con capacidad para optimizar procesos y desarrollar sol
 - 📞 Teléfono: (+34) 673 431 587
 - 📧 Email: luisvanegraes@gmail.com
 - 📍 Ubicación: Reus, Tarragona, España
+
 
 ---
 
