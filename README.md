@@ -46,8 +46,6 @@ Organizado, resolutivo y con capacidad para optimizar procesos y desarrollar sol
 ---
 ## 🏆 Proyectos Destacados
 
-// ... existing code ...
-## 🏆 Proyectos Destacados
 
 | Proyecto | Tecnologías | Año | Descripción | Enlace |
 |---|---|---|---|---|
