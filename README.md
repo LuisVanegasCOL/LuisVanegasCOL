@@ -2,7 +2,7 @@
 
 **Ingeniero de Sistemas | Especialista en Ciberseguridad | Desarrollador Fullstack**
 
-Apasionado por la tecnología, el desarrollo web y la seguridad informática. Con amplia experiencia en soporte técnico, administración de sistemas, gestión de infraestructura TI y ciberseguridad. Actualmente cursando un Máster en Diseño y Desarrollo de Aplicaciones Web Fullstack y un Bootcamp en Desarrollo Web Fullstack con Java, adquiriendo habilidades avanzadas en programación y desarrollo de software.
+Apasionado por la tecnología, el desarrollo web y la seguridad informática. Con amplia experiencia en soporte técnico, administración de sistemas, gestión de infraestructura TI y ciberseguridad. Finalicé recientemente un Máster en Diseño y Desarrollo de Aplicaciones Web Fullstack y un Bootcamp en Desarrollo Web Fullstack con Java, adquiriendo habilidades avanzadas en programación y desarrollo de software.
 
 Organizado, resolutivo y con capacidad para optimizar procesos y desarrollar soluciones tecnológicas eficientes.
 [🌐 Portafolio Web](https://luis-vanegas-portfolio-v2.vercel.app/) | [💼 LinkedIn](https://www.linkedin.com/in/luis-ricardo-vanegas-granados-a4061920a/) | [🐙 GitHub](https://github.com/LuisVanegasCOL) | [✉️ Gmail](mailto:luisvanegas@gmail.com)
@@ -76,24 +76,37 @@ Organizado, resolutivo y con capacidad para optimizar procesos y desarrollar sol
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVanegasCOL&langs_count=10&layout=compact&theme=radical)
 ---
 ## 🏆 Proyectos Destacados
+## 🏆 Proyectos Destacados
 
 | Proyecto | Tecnologías | Año | Descripción | Enlace |
 |---|---|---|---|---|
-| **🏆 Marketplace Tarragona** | React, Flask, TypeScript, Tailwind, MySQL, Ollama, Power BI | 2024 | Proyecto ganador del Hackathon TechTalent Tarragona. Plataforma que conecta productores locales con consumidores usando IA, dashboards y un completo panel de gestión. | [Ver Proyecto](https://github.com/LuisVanegasCOL/Hackathon-TechTalent--Tarragona-2025) |
-| MoneyTracker Colombia | React, TypeScript, Tailwind CSS, Node.js, Express, MySQL, Prisma ORM, Railway, Vercel | 2025 | App web para gestionar finanzas personales con dashboard interactivo, login seguro, UI tipo glassmorphism, gráficos y estadísticas en tiempo real. | [Ver Proyecto](https://wallet-flow-control2.vercel.app/) |
+| EcoHuella | React 18, TypeScript, Spring Boot, Java 17, MySQL, Ollama, JWT, PWA | 2025 | Aplicación web fullstack moderna para calcular, visualizar y reducir tu huella hídrica y energética. Incluye gamificación, chatbot ecológico con IA local y sistema de 43 logros automáticos. | [Ver GitHub](https://github.com/LuisVanegasCOL/EcoHuella) |
 | Híbrido Tatto | React 18, TypeScript, Vite, Tailwind CSS, Shadcn/ui, React Router, React Query, Zod, React Hook Form | 2025 | Aplicación web moderna para un estudio de tatuajes. Incluye sistema de gestión de citas, galería de trabajos y diseño responsivo. | [Ver Proyecto](https://hibrido-tatto.vercel.app/) |
 | SistemCity Web | React 18, TypeScript, Tailwind CSS, Shadcn/UI, React Router, React Query, React Hook Form, Zod, Recharts | 2025 | Página web corporativa para una empresa de mantenimiento y reparación de ordenadores. Incluye servicios de soporte técnico, reparación de hardware, instalación de software y asesoría tecnológica. | [Ver Proyecto](https://sistemcity-web.vercel.app/) |
 | Los Simpsons API | HTML5, CSS3, Tailwind, Vite, TypeScript, JavaScript | 2025 | App web para visualizar personajes de Los Simpsons con filtros avanzados. | [Ver Proyecto](https://app-los-simpson-luis-vanegas.vercel.app/) |
 | App Ping Pong | React Native Web, Node.js, Express.js, MySQL, TypeScript, Railway | 2025 | Aplicación web completa para la gestión de torneos y partidos de ping pong. Incluye sistema de rankings, gestión de jugadores y estadísticas en tiempo real. | [Ver Proyecto](https://luisvanegascol.github.io/AppPingPong/) |
 | Portafolio Luis Vanegas | HTML, CSS, JavaScript | 2025 | Mi portafolio profesional online. | [Ver GitHub](https://github.com/LuisVanegasCOL/PortafolioLuisVanegas) |
 
+->
+
+## 🏆 Proyectos Destacados
+
+| Proyecto | Tecnologías | Año | Descripción | Enlace |
+|---|---|---|---|---|
+| **🏆 Marketplace Tarragona** | React, Flask, TypeScript, Tailwind, MySQL, Ollama, Power BI | 2024 | Proyecto ganador del Hackathon TechTalent Tarragona. Plataforma que conecta productores locales con consumidores usando IA, dashboards y un completo panel de gestión. | [Ver Proyecto](https://github.com/LuisVanegasCOL/Hackathon-TechTalent--Tarragona-2025) |
+| **🌱 EcoHuella** | React 18, TypeScript, Spring Boot, Java 17, MySQL, Ollama, JWT, PWA | 2025 | Aplicación web fullstack moderna para calcular, visualizar y reducir tu huella hídrica y energética. Incluye gamificación, chatbot ecológico con IA local y sistema de 43 logros automáticos. | [Ver GitHub](https://github.com/LuisVanegasCOL/EcoHuella) |
+| MoneyTracker Colombia | React, TypeScript, Tailwind CSS, Node.js, Express, MySQL, Prisma ORM, Railway, Vercel | 2025 | App web para gestionar finanzas personales con dashboard interactivo, login seguro, UI tipo glassmorphism, gráficos y estadísticas en tiempo real. | [Ver Proyecto](https://wallet-flow-control2.vercel.app/) |
+| Híbrido Tatto | React 18, TypeScript, Vite, Tailwind CSS, Shadcn/ui, React Router, React Query, Zod, React Hook Form | 2025 | Aplicación web moderna para un estudio de tatuajes. Incluye sistema de gestión de citas, galería de trabajos y diseño responsivo. | [Ver Proyecto](https://hibrido-tatto.vercel.app/) |
+| SistemCity Web | React 18, TypeScript, Tailwind CSS, Shadcn/UI, React Router, React Query, React Hook Form, Zod, Recharts | 2025 | Página web corporativa para una empresa de mantenimiento y reparación de ordenadores. Incluye servicios de soporte técnico, reparación de hardware, instalación de software y asesoría tecnológica. | [Ver Proyecto](https://sistemcity-web.vercel.app/) |
+| Los Simpsons API | HTML5, CSS3, Tailwind, Vite, TypeScript, JavaScript | 2025 | App web para visualizar personajes de Los Simpsons con filtros avanzados. | [Ver Proyecto](https://app-los-simpson-luis-vanegas.vercel.app/) |
+| App Ping Pong | React Native Web, Node.js, Express.js, MySQL, TypeScript, Railway | 2025 | Aplicación web completa para la gestión de torneos y partidos de ping pong. Incluye sistema de rankings, gestión de jugadores y estadísticas en tiempo real. | [Ver Proyecto](https://luisvanegascol.github.io/AppPingPong/) |
+| Portafolio Luis Vanegas | HTML, CSS, JavaScript | 2025 | Mi portafolio profesional online. | [Ver GitHub](https://github.com/LuisVanegasCOL/PortafolioLuisVanegas) |
 ## 🎓 Certificados y Educación
 
-- Especialización en Ciberseguridad - Universidad Autónoma de Occidente Cali (En curso - 2025)
-- Ingeniería de Sistemas - Universitaria de Colombia (2022)
-- Máster en Diseño y Desarrollo de Aplicaciones Web Fullstack - CIPSA, Barcelona (En curso - 2025)
-- Bootcamp en Desarrollo Web Fullstack con Java - Tech Talent Mas Carandell (En curso - 2025)
-
+- **Especialización en Ciberseguridad** – Universidad Autónoma de Occidente Cali *(En curso - 2025)*
+- **Máster en Diseño y Desarrollo de Aplicaciones Web Fullstack** – CIPSA, Barcelona *(Finalizado - 2025)*
+- **Bootcamp en Desarrollo Web Fullstack con Java** – Tech Talent Mas Carandell *(Finalizado - 2025)*
+- **Ingeniería de Sistemas** – Universitaria de Colombia *(2022)*
 ---
 
 ## 💼 Experiencia Laboral
